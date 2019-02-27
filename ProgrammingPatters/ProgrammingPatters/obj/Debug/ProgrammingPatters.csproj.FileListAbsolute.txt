@@ -1,0 +1,6 @@
+F:\RiderProjects\ProgrammingPatters\ProgrammingPatters\bin\Debug\ProgrammingPatters.exe
+F:\RiderProjects\ProgrammingPatters\ProgrammingPatters\bin\Debug\ProgrammingPatters.pdb
+F:\RiderProjects\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.csprojAssemblyReference.cache
+F:\RiderProjects\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.csproj.CoreCompileInputs.cache
+F:\RiderProjects\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.exe
+F:\RiderProjects\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.pdb
