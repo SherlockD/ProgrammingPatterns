@@ -1,4 +1,4 @@
-# ProgrammingPatterns
+# ProgrammingPatterns 
 
 Реализованные на данный момент паттерны:
   Структурные:
