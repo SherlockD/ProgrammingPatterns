@@ -38,6 +38,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Patterns\Creational\AbstractFactory.cs" />
+    <Compile Include="Patterns\Creational\Builder.cs" />
+    <Compile Include="Patterns\Creational\Factory.cs" />
+    <Compile Include="Patterns\Creational\Prototype.cs" />
+    <Compile Include="Patterns\Creational\Singleton.cs" />
     <Compile Include="Patterns\Structural\Decorator.cs" />
     <Compile Include="Patterns\Structural\Proxy.cs" />
     <Compile Include="Program.cs" />

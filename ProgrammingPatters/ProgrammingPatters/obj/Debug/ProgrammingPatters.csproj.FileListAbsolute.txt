@@ -4,3 +4,9 @@ F:\RiderProjects\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatt
 F:\RiderProjects\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.csproj.CoreCompileInputs.cache
 F:\RiderProjects\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.exe
 F:\RiderProjects\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.pdb
+F:\RiderProjects\ProgrammingPatterns\ProgrammingPatters\ProgrammingPatters\bin\Debug\ProgrammingPatters.exe
+F:\RiderProjects\ProgrammingPatterns\ProgrammingPatters\ProgrammingPatters\bin\Debug\ProgrammingPatters.pdb
+F:\RiderProjects\ProgrammingPatterns\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.csprojAssemblyReference.cache
+F:\RiderProjects\ProgrammingPatterns\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.csproj.CoreCompileInputs.cache
+F:\RiderProjects\ProgrammingPatterns\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.exe
+F:\RiderProjects\ProgrammingPatterns\ProgrammingPatters\ProgrammingPatters\obj\Debug\ProgrammingPatters.pdb
