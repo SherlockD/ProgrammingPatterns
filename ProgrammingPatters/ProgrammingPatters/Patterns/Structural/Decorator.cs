@@ -51,16 +51,16 @@ namespace ProgrammingPatters.Patterns.Structural
     class CheesePizzaa : PizzaDecorator
     {
         
-        public CheesePizzaa(Pizza pizza) : base(pizza.Name+" с сыром,",pizza)
+        public CheesePizzaa(Pizza pizza) : base(pizza.Name +" с сыром,", pizza)
         {
         }
 
-        public override int GetCost() => pizza.GetCost()+3;
+        public override int GetCost() => pizza.GetCost()  + 3;
     }
 
     class TomatoPizza : PizzaDecorator
     {
-        public TomatoPizza(Pizza pizza) : base(pizza.Name+" с томатами,", pizza)
+        public TomatoPizza(Pizza pizza) : base(pizza.Name+ " с томатами,", pizza)
         {           
         }
 
