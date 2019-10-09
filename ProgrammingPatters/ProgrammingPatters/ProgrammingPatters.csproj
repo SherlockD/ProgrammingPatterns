@@ -43,10 +43,21 @@
     <Compile Include="Patterns\Creational\Factory.cs" />
     <Compile Include="Patterns\Creational\Prototype.cs" />
     <Compile Include="Patterns\Creational\Singleton.cs" />
+    <Compile Include="Patterns\MVP\CalculatorModel.cs" />
+    <Compile Include="Patterns\MVP\CalculatorPresenter.cs" />
+    <Compile Include="Patterns\MVP\CalculatorView.cs" />
+    <Compile Include="Patterns\MVP\Interfaces\IMediator.cs" />
+    <Compile Include="Patterns\MVP\Interfaces\IModel.cs" />
+    <Compile Include="Patterns\MVP\Interfaces\IPresenter.cs" />
+    <Compile Include="Patterns\MVP\Interfaces\IView.cs" />
+    <Compile Include="Patterns\MVP\CalculatorMediator.cs" />
     <Compile Include="Patterns\Structural\Decorator.cs" />
     <Compile Include="Patterns\Structural\Proxy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Patterns\MVP\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

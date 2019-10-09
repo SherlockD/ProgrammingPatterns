@@ -1,4 +1,5 @@
 ﻿using ProgrammingPatters.Patterns.Creational;
+using ProgrammingPatters.Patterns.MVP;
 
 namespace ProgrammingPatters
 {
@@ -6,9 +7,9 @@ namespace ProgrammingPatters
     {
         public static void Main()
         {
-            Rect rect = new Rect(10,20);
-            var rectClone = rect.Clone();
-            rect.GetInfo();
+            CalculatorMediator calculatorMediator = new CalculatorMediator();
+            
+            calculatorMediator.Start();
         }
     }
 }
